@@ -1,48 +1,26 @@
 # Aula-1-gif-github COMANDOS
 
-usage: git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]
-           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
-           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--no-lazy-fetch]
-           [--no-optional-locks] [--no-advice] [--bare] [--git-dir=<path>]
-           [--work-tree=<path>] [--namespace=<name>] [--config-env=<name>=<envvar>]
-           <command> [<args>]
+uso: git [-v | --version] [-h | --help] [-C ] [-c =] [--exec-path[=]] [--html-path] [--man-path] [--info-path] [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--no-lazy-fetch] [--no-optional-locks] [--no-advice] [--bare] [--git-dir=] [--work-tree=] [--namespace=] [--config-env==] []
 
-These are common Git commands used in various situations:
+Estes são comandos comuns do Git usados em várias situações:
 
-start a working area (see also: git help tutorial)
-   clone      Clone a repository into a new directory
-   init       Create an empty Git repository or reinitialize an existing one
+iniciar uma área de trabalho (veja também: git help tutorial) clone Clonar um repositório em um novo diretório init Criar um repositório Git vazio ou reinicializar um existente
 
-work on the current change (see also: git help everyday)
-   add        Add file contents to the index
-   mv         Move or rename a file, a directory, or a symlink
-   restore    Restore working tree files
-   rm         Remove files from the working tree and from the index
+trabalhar na alteração atual (consulte também: git help everyday) add Adicionar o conteúdo de um ficheiro ao índice mv Mover ou renomear um ficheiro, um diretório ou uma ligação simbólica restore Restaurar ficheiros da árvore de trabalho rm Remover ficheiros da árvore de trabalho e do índice
 
-examine the history and state (see also: git help revisions)
-   bisect     Use binary search to find the commit that introduced a bug
-   diff       Show changes between commits, commit and working tree, etc
-   grep       Print lines matching a pattern
-   log        Show commit logs
-   show       Show various types of objects
-   status     Show the working tree status
+examinar o histórico e o estado (veja também: git help revisions) bisect Utilizar a pesquisa binária para encontrar o commit que introduziu um bug diff Mostrar alterações entre commits, commit e árvore de trabalho, etc grep Imprimir linhas que correspondam a um padrão log Mostrar logs de commits show Mostrar vários tipos de objectos status Mostrar o estado da árvore de trabalho
 
-grow, mark and tweak your common history
-   backfill   Download missing objects in a partial clone
-   branch     List, create, or delete branches
-   commit     Record changes to the repository
-   merge      Join two or more development histories together
-   rebase     Reapply commits on top of another base tip
-   reset      Reset current HEAD to the specified state
-   switch     Switch branches
-   tag        Create, list, delete or verify a tag object signed with GPG
+crescer, marcar e ajustar o seu histórico comum backfill Descarregar objectos em falta num clone parcial branch Listar, criar ou apagar branches commit Registar alterações no repositório merge Juntar dois ou mais históricos de desenvolvimento rebase Reaplicar commits em cima de outra base tip reset Repor o HEAD atual para o estado especificado switch Trocar branches tag Criar, listar, apagar ou verificar um objeto tag assinado com GPG
 
-collaborate (see also: git help workflows)
-   fetch      Download objects and refs from another repository
-   pull       Fetch from and integrate with another repository or a local branch
-   push       Update remote refs along with associated objects
+Traduzido com a versão gratuita do tradutor - DeepL.com
+colaborar (ver também: git help workflows)
+   fetch Descarregar objectos e refs de outro repositório
+   pull Obter e integrar a partir de outro repositório ou de um ramo local
+   push Atualizar refs remotas juntamente com os objectos associados
 
-'git help -a' and 'git help -g' list available subcommands and some
-concept guides. See 'git help <command>' or 'git help <concept>'
-to read about a specific subcommand or concept.
-See 'git help git' for an overview of the system.
+'git help -a' e 'git help -g' listam os subcomandos disponíveis e alguns
+guias conceituais. Consulte 'git help <comando>' ou 'git help <conceito>'
+para ler sobre um subcomando ou conceito específico.
+Veja 'git help git' para uma visão geral do sistema.
+
+Traduzido com a versão gratuita do tradutor - DeepL.com
